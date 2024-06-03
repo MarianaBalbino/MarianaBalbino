@@ -1,4 +1,5 @@
-Boas vindas ao meu perfil 💙
+**Boas vindas ao meu perfil** 💙
+
 Meu nome é Mariana Balbino
 
 Estou estudando na Alura
@@ -13,4 +14,3 @@ Você pode entrar em contato comigo 📫
 00001117592017sp@al.educacao.sp.gov.br
 
 @MarianaBalbino
-
